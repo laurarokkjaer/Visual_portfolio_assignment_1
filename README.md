@@ -1,7 +1,7 @@
 # Visual Analytics - Spring 2022
 # Portfolio Assignment 1
 
-This repository contains the code and descriptions from the first assigned project of the Spring 2022 module Visual Analytics as part of the bachelor's tilvalg in Cultural Data Science at Aarhus University - whereas the overall Visual analytics portfolio (zip-file) consist of 4 projects - 3 class assignments + 1 self-assigned.
+This repository contains the code and descriptions from the first assigned project of the Spring 2022 module Visual Analytics as part of the bachelor's tilvalg in Cultural Data Science at Aarhus University - whereas the overall Visual analytics portfolio (zip-file) consist of 4 projects, 3 class assignments as well as 1 self-assigned.
 
 ## Assignment description
 The official description of the assignment:
