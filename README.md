@@ -14,13 +14,15 @@ Save an image which shows the target image, the three most similar, and the calc
 Save a CSV which has one column for the filename and three columns showing the filenames of the closest images in descending order
 For this assignment, you should create a private Github repository and add me as a collaborator. When submitting via Brightspace, simply send the link to the repository; I will provide feedback and comments via Github's built in functionality.
 
-#### The goal of the assignment 
+### The goal of the assignment 
 The goal of this assignment was to demonstrate a good understanding of how to use simple image processing techniques to extract valuable information from image data. The results is to have a simple tool for performing image search on a dataset of images, finding which images are most similar to one another.
+
+## Repo structure
+### This repository has the following directory structure:
 
 | **Folder** | **Description** |
 | ----------- | ----------- |
-| ```CollocationTool``` | Contains code for assignment 1 |
-| ```NetworkAnalysis``` | Contains code for assignment 3 |
-| ```SentimentNER``` | Contains code for assignment 2 |
-| ```TextClassification``` | Contains code for assignment 4 |
-| ``` X ``` | Contains code for self-assigned project |
+| ```in``` | Contains the input data (will be empty) |
+| ```out``` | Contains the results (outputs like plots or reports)  |
+| ```src``` | Contains code for assignment 1 |
+
