@@ -11,6 +11,7 @@ This repository contains the code and descriptions from the first assigned proje
 | ```in``` | Contains the input data (will be empty) |
 | ```out``` | Contains the results (outputs like plots or reports)  |
 | ```src``` | Contains code for assignment 1 |
+Also containing a MITLICENSE for guidelines of how to reproduce and use the data in this repository
 
 
 ## Assignment description
