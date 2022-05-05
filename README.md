@@ -32,7 +32,7 @@ The goal of this assignment was to demonstrate a good understanding of how to us
 
 
 ## Methods
-To solve this assignment i chose to work with opencv in order to both calculate the histograms as well as for the general image processing (using the calcHist, imread, normalize and compareHist). Futhermore i used the jimshow and jimshow_channel from the utils-folder. 
+To solve this assignment i chose to work with ```opencv``` in order to both calculate the histograms as well as for the general image processing (using the ```calcHist```, ```imread```, ```normalize``` and ```compareHist```). Futhermore i used the ```jimshow``` and ```jimshow_channel``` from the ```utils```-folder. 
 
 ## Usage (reproducing results)
 For this .py script the following should be written in the command line:
