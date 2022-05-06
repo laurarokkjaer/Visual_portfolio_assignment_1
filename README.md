@@ -28,11 +28,11 @@ For this assignment, you will write a small Python program to compare image hist
 - Save a CSV which has one column for the filename and three columns showing the filenames of the closest images in descending order
 
 ### The goal of the assignment 
-The goal of this assignment was to demonstrate a good understanding of how to use simple image processing techniques to extract valuable information from image data. The results is to have a simple tool for performing image search on a dataset of images, finding which images are most similar to one another.
+The goal of this assignment was to demonstrate a good understanding of how to use simple image processing techniques to extract valuable information from image data. The results is to have a simple tool for performing image search on a dataset of images, finding which images are most similar to one another along with a plot visualising those images.
 
 
 ## Methods
-To solve this assignment i chose to work with ```opencv``` in order to both calculate the histograms as well as for the general image processing (using the ```calcHist```, ```imread```, ```normalize``` and ```compareHist```). Futhermore i used the ```jimshow``` and ```jimshow_channel``` from the ```utils```-folder. 
+To solve this assignment i chose to work with ```opencv``` in order to both calculate the histograms as well as for the general image processing (using the ```calcHist```, ```imread```, ```normalize``` and ```compareHist```). Futhermore i used the ```jimshow``` and ```jimshow_channel``` from the ```utils```-folder, along with the ```matplotlib``` for plotting and visualisation.
 
 ## Usage (reproducing results)
 For this .py script the following should be written in the command line:
@@ -40,7 +40,11 @@ For this .py script the following should be written in the command line:
 - write the command: python image_search.py
 - when processing there will be a message introducing the results, which is the distance score and filepath for the top three similar images
 
-The target image, as well as the most similar images can be seen in the output folder 
+The target image, as well as the most similar images can be seen in the output folder both as csv (with file informations) and as a visualisation where the images are plottet next to each other
 
 
 ## Discussion of results
+something about 
+- a user defined input (what that could do for the assignment and the reproducability 
+- the transision from a notebook to a .py script 
+
