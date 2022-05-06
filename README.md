@@ -38,7 +38,7 @@ To solve this assignment i chose to work with ```opencv``` in order to both calc
 For this .py script the following should be written in the command line:
 - change directory to the folder /src 
 - write the command: python image_search.py
-- when processing there will be a message introducing the results, which is the distance score and filepath for the top three similar images
+- when processing results there will be a messagge saying that the script has succeeded and the outputs can be seen in the output folder 
 
 The target image, as well as the most similar images can be seen in the output folder both as csv (with file informations) and as a visualisation where the images are plottet next to each other
 
