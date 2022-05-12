@@ -13,7 +13,7 @@ This repository contains the code and descriptions from the first assigned proje
 | ```src``` | Contains code for assignment 1 |
 | ```utils``` | Contains helping functions that may have been used throughoyt the code |
 
-Also containing a MITLICENSE for guidelines of how to reproduce and use the data in this repository
+Also containing a MITLICENSE for guidelines of how to reproduce and use the data in this repository, as well as a .txt reqirements-file, where the required imports will be listed.
 
 
 ## Assignment description
