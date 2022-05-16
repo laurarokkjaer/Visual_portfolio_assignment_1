@@ -16,7 +16,7 @@ This repository contains the code and descriptions from the first assigned proje
 Also containing a ```MITLICENSE``` for guidelines of how to reproduce and use the data in this repository, as well as a ```.txt``` reqirements-file, where the required installments will be listed.
 
 ## Assignment description
-The official description of the assignment from github/brightspace (https://github.com/CDS-AU-DK/cds-visual/blob/main/assignments/assignment1.md):
+The official description of the assignment from github/brightspace [assignment description](https://github.com/CDS-AU-DK/cds-visual/blob/main/assignments/assignment1.md):
 
 For this assignment, you will write a small Python program to compare image histograms quantitively using Open-CV and the other image processing tools you've already encountered. Your script should do the following:
 
@@ -31,7 +31,7 @@ The goal of this assignment was to demonstrate a good understanding of how to us
 
 #### Data source
 The data used in this assignment was the in class flowers-folder from UCloud (shared-drive/CDS-VIS/flowers). 
-Link to flowers dataset: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/.
+Link to flowers dataset: [flowers dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/).
 
 
 ## Methods
