@@ -30,7 +30,8 @@ For this assignment, you will write a small Python program to compare image hist
 The goal of this assignment was to demonstrate a good understanding of how to use simple image processing techniques to extract valuable information from image data. The results is to have a simple tool for performing image search on a dataset of images, finding which images are most similar to one another along with a plot visualising those images.
 
 #### Data source
-The data used in this assignment was the in class flowers-folder from UCloud (shared-drive/CDS-VIS/flowers)
+The data used in this assignment was the in class flowers-folder from UCloud (shared-drive/CDS-VIS/flowers). 
+Link to flowers dataset: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/.
 
 
 ## Methods
