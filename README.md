@@ -29,6 +29,9 @@ For this assignment, you will write a small Python program to compare image hist
 ### The goal of the assignment 
 The goal of this assignment was to demonstrate a good understanding of how to use simple image processing techniques to extract valuable information from image data. The results is to have a simple tool for performing image search on a dataset of images, finding which images are most similar to one another along with a plot visualising those images.
 
+#### Data source
+The data used in this assignment was the in class flowers-folder from UCloud (shared-drive/CDS-VIS/flowers)
+
 
 ## Methods
 To solve this assignment i have worked with ```opencv``` in order to both calculate the histograms as well as for the general image processing (using the ```calcHist```, ```imread```, ```normalize``` and ```compareHist```). Futhermore i used the ```jimshow``` and ```jimshow_channel``` from the ```utils```-folder, along with the ```matplotlib``` for plotting and visualisation.
