@@ -11,7 +11,7 @@ This repository contains the code and descriptions from the first assigned proje
 | ```in``` | Contains the input data (will be empty) |
 | ```out``` | Contains the results (outputs like plots or reports)  |
 | ```src``` | Contains code for assignment 1 |
-| ```utils``` | Contains utility functions written by https://pure.au.dk/portal/en/persons/ross-deans-kristensenmclachlan(29ad140e-0785-4e07-bdc1-8af12f15856c).html, and which have been used in class as well as in the assignments |
+| ```utils``` | Contains utility functions written by [Ross](https://pure.au.dk/portal/en/persons/ross-deans-kristensenmclachlan(29ad140e-0785-4e07-bdc1-8af12f15856c).html), and which have been used in class as well as in the assignments |
 
 Also containing a ```MITLICENSE``` for guidelines of how to reproduce and use the data in this repository, as well as a ```.txt``` reqirements-file, where the required installments will be listed.
 
