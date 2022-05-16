@@ -1,7 +1,7 @@
 # Visual Analytics - Spring 2022
 # Portfolio Assignment 1
 
-This repository contains the code and descriptions from the first assigned project of the Spring 2022 module Visual Analytics as part of the bachelor's tilvalg in Cultural Data Science at Aarhus University - whereas the overall Visual analytics portfolio (zip-file) consist of 4 projects, 3 class assignments as well as 1 self-assigned.
+This repository contains the code and descriptions from the first assigned project of the Spring 2022 module Visual Analytics as part of the bachelor's tilvalg in Cultural Data Science at Aarhus University - whereas the overall Visual analytics portfolio (zip-file) consist of 4 projects, 3 class assignments + 1 self-assigned.
 
 ## Repo structure
 ### This repository has the following directory structure:
@@ -11,12 +11,12 @@ This repository contains the code and descriptions from the first assigned proje
 | ```in``` | Contains the input data (will be empty) |
 | ```out``` | Contains the results (outputs like plots or reports)  |
 | ```src``` | Contains code for assignment 1 |
-| ```utils``` | Contains helping functions that may have been used throughoyt the code |
+| ```utils``` | Contains utility functions written by https://pure.au.dk/portal/en/persons/ross-deans-kristensenmclachlan(29ad140e-0785-4e07-bdc1-8af12f15856c).html, and which have been used in class as well as in the assignments |
 
 Also containing a ```MITLICENSE``` for guidelines of how to reproduce and use the data in this repository, as well as a ```.txt``` reqirements-file, where the required installments will be listed.
 
 ## Assignment description
-The official description of the assignment from github/brightspace:
+The official description of the assignment from github/brightspace (https://github.com/CDS-AU-DK/cds-visual/blob/main/assignments/assignment1.md):
 
 For this assignment, you will write a small Python program to compare image histograms quantitively using Open-CV and the other image processing tools you've already encountered. Your script should do the following:
 
