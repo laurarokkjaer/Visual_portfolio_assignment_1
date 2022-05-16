@@ -26,11 +26,11 @@ For this assignment, you will write a small Python program to compare image hist
 - Save an image which shows the target image, the three most similar, and the calculated distance score.
 - Save a CSV which has one column for the filename and three columns showing the filenames of the closest images in descending order
 
-#### The goal of the assignment 
+### The goal of the assignment 
 The goal of this assignment was to demonstrate a good understanding of how to use simple image processing techniques to extract valuable information from image data. The results is to have a simple tool for performing image search on a dataset of images, finding which images are most similar to one another along with a plot visualising those images.
 
-#### Data source
-The data used in this assignment was the in class flowers-folder from UCloud (shared-drive/CDS-VIS/flowers). 
+### Data source
+The data used in this assignment is the in class flowers-folder from UCloud (shared-drive/CDS-VIS/flowers). 
 
 Link to flowers dataset: [flowers dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/).
 
