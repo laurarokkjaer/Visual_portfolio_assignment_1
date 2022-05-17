@@ -43,8 +43,11 @@ These are the steps you will need to follow in order to get the script running a
 - load the given data into ```input```
 - change your current working directory to the folder before src in order to get access to the input and utils folder as well 
 - the following shpuld be written in the command line:
+
       - cd src (changing the directory to the src folder in order to run the script)
+      
       - python image_search.py (calling the function within the script)
+      
 - when processed results there will be a messagge saying that the script has succeeded and the outputs can be seen in the output folder 
 
 
