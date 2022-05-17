@@ -53,7 +53,7 @@ These are the steps you will need to follow in order to get the script running a
 
 
 ## Discussion of results
-something about 
-- a user defined input (what that could do for the assignment and the reproducability 
-- the transision from a notebook to a .py script 
+The result of this script is an image which contains one target flower image and the calculated three similar images, as well as the calculated distance scores of the images. Furthermore, a csv file is made with the results (similar images). 
+
+For further development, it could have been interesting to look at how to make the script run with a user defined input. Since this code have already been through a transision from jupiter notebook to .py script, it would not have been much change to do. For the user to parse an argument via the command line when running the code, the script would have been more reproduceble/reuseble, because of the fact that the user wpuld be able to define the target image themselves. 
 
