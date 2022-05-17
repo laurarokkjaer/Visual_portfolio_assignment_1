@@ -12,4 +12,3 @@ matplotlib
 From utils:
 from utils.imutils import jimshow
 from utils.imutils import jimshow_channel
-import matplotlib.pyplot as plt
