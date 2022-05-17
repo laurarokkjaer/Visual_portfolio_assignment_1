@@ -39,12 +39,14 @@ Link to flowers dataset: [flowers dataset](https://www.robots.ox.ac.uk/~vgg/data
 To solve this assignment i have worked with ```opencv``` in order to both calculate the histograms as well as for the general image processing (using the ```calcHist```, ```imread```, ```normalize``` and ```compareHist```). Futhermore i used the ```jimshow``` and ```jimshow_channel``` from the ```utils```-folder, along with the ```matplotlib``` for plotting and visualisation.
 
 ## Usage (reproducing results)
-For this .py script the following should be written in the command line:
-- change directory to the folder /src 
-- write command: python image_search.py
-- when processing results there will be a messagge saying that the script has succeeded and the outputs can be seen in the output folder 
+These are the steps you will need to follow in order to get the script running and working:
+- load the given data into ```input```
+- change your current working directory to the folder before src in order to get access to the input and utils folder as well 
+- the following shpuld be written in the command line:
+      - cd src (changing the directory to the src folder in order to run the script)
+      - python image_search.py (calling the function within the script)
+- when processed results there will be a messagge saying that the script has succeeded and the outputs can be seen in the output folder 
 
-The target image, as well as the most similar images can be seen in the output folder both as csv (with file informations) and as a visualisation where the images are plottet next to each other
 
 
 ## Discussion of results
