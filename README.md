@@ -32,7 +32,7 @@ The goal of this assignment was to demonstrate a good understanding of how to us
 ### Data source
 The data used in this assignment is the in class flowers-folder from UCloud (shared-drive/CDS-VIS/flowers). 
 
-Link to flowers dataset: [flowers dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/).
+Link to flowers dataset: [flowers dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/17/index.html).
 
 
 ## Methods
