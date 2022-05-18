@@ -9,8 +9,8 @@ This repository contains the code and descriptions from the first assigned proje
 
 | **Folder** | **Description** |
 | ----------- | ----------- |
-| ```in``` | Contains the input data (will be empty) |
-| ```out``` | Contains the results (outputs like plots or reports)  |
+| ```input``` | Contains the input data (will be empty) |
+| ```output``` | Contains the results (outputs like plots or reports)  |
 | ```src``` | Contains code for assignment 1 |
 | ```utils``` | Contains utility functions written by [Ross](https://pure.au.dk/portal/en/persons/ross-deans-kristensenmclachlan(29ad140e-0785-4e07-bdc1-8af12f15856c).html), and which have been used in the assignments |
 
