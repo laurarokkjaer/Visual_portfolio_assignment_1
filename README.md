@@ -43,7 +43,7 @@ To solve this assignment i have worked with ```opencv``` in order to both calcul
 These are the steps you will need to follow in order to get the script running and working:
 - load the given data into ```input```
 - make sure to install and import all necessities from ```requirements.txt``` 
-- change your current working directory to the folder above src in order to get access to the input and utils folder as well 
+- change your current working directory to the folder above src in order to get access to the input, output and utils folder as well 
 - the following should be written in the command line:
 
       - cd src (changing the directory to the src folder in order to run the script)
