@@ -1,6 +1,6 @@
 import os
 import sys
-sys.path.append(os.path.join("..", "..", "CDS-VIS"))
+sys.path.append(os.path.join("utils"))
 import cv2
 import numpy as np
 import pandas as pd
@@ -9,7 +9,7 @@ from utils.imutils import jimshow_channel
 import matplotlib.pyplot as plt
 
 def image_search():
-    filepath = os.path.join("..", "..", "CDS-VIS", "flowers", "image_0020.jpg")
+    filepath = os.path.join("input", "flowers", "image_0020.jpg")
     target_image = cv2.imread(filepath)
     #jimshow(target_image)
     
@@ -21,7 +21,7 @@ def image_search():
     
     # Making a list containing the filename for all images (a sample of 10 in this case)
     all_images = []
-    path = os.path.join("..", "..", "CDS-VIS", "flowers")
+    path = os.path.join("input", "flowers")
     names = os.listdir(path)
 
     for image in names[0:10]:
@@ -33,7 +33,7 @@ def image_search():
 # Making a loop that goes through each image in all_images, reading it as an image, calculating its histogram and normalising it 
     normalized = []
     for images in all_images :
-        filepath = os.path.join("..", "..", "CDS-VIS", "flowers", images) 
+        filepath = os.path.join("input", "flowers", images) 
         # Reading it as an image 
         images = cv2.imread(filepath)
         # Calculating historgram 
@@ -74,7 +74,7 @@ def image_search():
     
     final_images = []
     for sim_img in similar:
-        path = os.path.join("..", "..", "CDS-VIS", "flowers", sim_img) 
+        path = os.path.join("input", "flowers", sim_img) 
         # Reading them as an image 
         sim_img = cv2.imread(path)
         # Comverting colorscale for plotting
@@ -104,7 +104,7 @@ def image_search():
     columns = ["1. Similar", "2. Similar", "3. Similar", "Target Image"]
     dframe = pd.DataFrame(similar, columns)
     # Saving as csdv to output folder
-    output_path = os.path.join("..", "output", "Image_search.csv")
+    output_path = os.path.join("output", "Image_search.csv")
     dframe.to_csv(output_path, encoding = "utf-8")
 
     
